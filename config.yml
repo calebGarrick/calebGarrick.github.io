@@ -1,2 +1,7 @@
 defaults:
-    layout: "default"
+    -
+        scope:
+            path: ""
+            type: "pages"
+          values:
+            layout: "deafult"
