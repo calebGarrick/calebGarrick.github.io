@@ -16,6 +16,17 @@ January 2020 to Present
 - The primary goal of the SIG is to learn, teach, and practice software design and implementation in C++.
 - It is a place for students, teachers, and practitioners to freely discuss, present, write, and practice all things C++.
 
+## Skills
+
+```
+GitHub
+C/C++
+Python
+Java
+JavaScript
+SQL
+Computer Science
+```
 
 ## Work Experience
 
@@ -53,22 +64,3 @@ July 2015 to August 2015
 
 Through a five-week program, I led a team of four to build a drone to be presented to the public displaying an example of
 modern technology.
-
-## Skills
-
-```
-GitHub
-C/C++
-Python
-Java
-JavaScript
-SQL
-Computer Science
-```
-
-## LINKS
-
-[http://calebGarrick.github.io](http://calebGarrick.github.io)
-
-[http://github.com/calebGarrick](http://github.com/calebGarrick)
-
