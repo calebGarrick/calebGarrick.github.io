@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+.body {
+    padding-top: 10px;
+}
+
 .sidebar ul{
     list-style: none;
+    padding: 0px;
+}
+
+td {
+    vertical-align: top;
 }
