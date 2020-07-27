@@ -21,13 +21,12 @@ January 2020 to Present
 ## Skills
 
 ```
-GitHub
-C/C++
+C++
+Javscript/ Node/ Typescript
+SQL/ Data Modeling
 Python
 Java
-JavaScript
-SQL
-Computer Science
+Git
 ```
 
 ## Work Experience
