@@ -18,13 +18,12 @@ January 2020 to Present
 - The primary goal of the SIG is to learn, teach, and practice software design and implementation in C++.
 - It is a place for students, teachers, and practitioners to freely discuss, present, write, and practice all things C++.
 
-## Skills
+## Languages/Skills
 
 ```
 C++
-Javscript/ Node/ Typescript
-SQL/ Data Modeling
-Python
+Javscript
+SQL
 Java
 Git
 ```
