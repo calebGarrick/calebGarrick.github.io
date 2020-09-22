@@ -1,7 +1,7 @@
 --- --- @import "{{ site.theme }}";
 
 body {
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 .sidebar ul {
@@ -14,7 +14,7 @@ td {
 }
 
 .sidebar {
-    vertical-align: super;
+    vertical-align: baseline;
 }
 
 .wrapper {
