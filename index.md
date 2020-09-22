@@ -29,7 +29,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 - Expected completion date: December 2020
 - Cumulative GPA: 3.8/4.0
-- Major Field Test: 96th percentile
+- [Major Field Test](https://www.ets.org/mft/about/content/computer_science): 96th percentile
 
 ---
 
