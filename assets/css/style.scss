@@ -1,13 +1,10 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 body {
     padding-top: 10px;
 }
 
-.sidebar ul{
+.sidebar ul {
     list-style: none;
     padding: 0px;
 }
@@ -17,9 +14,13 @@ td {
 }
 
 .wrapper {
-    max-width: 950px;    
+    max-width: 950px;
 }
 
 .contacts a {
     margin-left: 5px;
+}
+
+.education ul li p {
+    margin-bottom: 5px;
 }
