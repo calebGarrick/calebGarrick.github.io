@@ -21,7 +21,7 @@ January 2020 to Present
 
 ## Education
 
-Western Connecticut State University Danbury,CT
+**Western Connecticut State University Danbury,CT**
 
 _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
