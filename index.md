@@ -19,6 +19,15 @@ January 2020 to Present
 - The primary goal of the SIG is to learn, teach, and practice software design and implementation in C++.
 - It is a place for students, teachers, and practitioners to freely discuss, present, write, and practice all things C++.
 
+## Education
+
+Western Connecticut State University Danbury,CT
+
+    *Bachelor's of Science, Major in Computer Science, Minor in Mathematics*
+    - Expected completion date: December 2020
+    - Cumulative GPA: 3.8/4.0
+    - Major Field Test: 96th percentile
+
 ## Languages/Skills
 
 - C++
