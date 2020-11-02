@@ -28,7 +28,7 @@ January 2020 to Present
 _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 - Expected completion date: December 2020
-- Cumulative GPA: 3.8/4.0
+- Cumulative GPA: 3.7/4.0
 - [Major Field Test](https://www.ets.org/mft/about/content/computer_science): 96th percentile
 
 ---
@@ -38,8 +38,9 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - C++
 - Javscript/ Node/ Typescript
 - SQL/ Data Modeling
+- Angular
 - Python
-- Java
+- Java/ Kotlin
 - Git
 
 ---
