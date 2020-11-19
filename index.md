@@ -3,13 +3,14 @@
 
 ## Groups
 
-### [DASSL : Data Science & Systems Lab](http://calebGarrick.github.io)
+### [DASSL : Data Science & Systems Lab](https://dassl.github.io/)
 
 November 2019 to Present
 
 - DASSL is a research group with broad focus on data science and data-intensive systems.
 - The focus includes analyzing, organizing, designing, building, verifying, and managing data and data-intensive systems.
 - The focus also includes hardware design to the extent they relate to performance of data-intensive systems.
+- Presented [LearnDB](https://github.com/DASSL/LearnDB), at the DASSL Day conference.
 
 ### [SIGCPP: Special Interest Group on C++](http://sigcpp.github.io)
 
@@ -36,12 +37,14 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 ## Languages/Skills
 
 - C++
+- Microsoft Office Suite
+- Java/ Kotlin
 - Javscript/ Node/ Typescript
 - SQL/ Data Modeling
-- Angular
+- Angular/ React
 - Python
-- Java/ Kotlin
-- Git
+- Git/ Github
+- Microsoft Azure
 
 ---
 
@@ -75,4 +78,5 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 **Teen Innovation Intern**
 
-- Led a team of four to build a public display of modern technology.
+- Led a team of four to build a drone
+- Presented it to the public as a display of modern technology.
