@@ -1,5 +1,10 @@
 ---
 ---
+## Objective
+
+- To build a career in automation or cloud computing.
+- To continue to pursue my interests in 3D/data modeling and digital design.
+- To grow my knowledge of emerging technologies such as quantum computing and deep learning.
 
 ## Groups
 
@@ -38,6 +43,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 - C++
 - Microsoft Office Suite
+- Blender/ Fusion 360
 - Java/ Kotlin
 - Javscript/ Node/ Typescript
 - SQL/ Data Modeling
