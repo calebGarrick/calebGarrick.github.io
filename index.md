@@ -44,7 +44,7 @@ January 2020 to Present
 
 _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
-- Cumulative GPA: 3.7/4.0
+- Cumulative GPA: 3.72/4.0
 - [Major Field Test](https://www.ets.org/mft/about/content/computer_science): 96th percentile
 
 ### Relevant Coursework
@@ -54,7 +54,11 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - Computer Architecture
 - Computer Organization and Software
 - Distributed Application Engineering
+  - Collaborated on and presented [AlgoLearn](https://github.com/AlgoLearnWCSU/AlgoLearn)
+  - Built a full-stack application using Spring and Angular with Azure
 - Database Design
+  - Used a PostgreSQL instance running [ClassDB](https://github.com/DASSL/ClassDB) to build a relational databse
+  - Inducted into DASSL
 - Web Application Design
 - Algorithm Design and Analysis
 - Programming Languages
@@ -62,7 +66,8 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - Networking Principles
 - Discrete Mathematics for CS
 - Theory of Computation
-- Calculus I, II
+- Calculus I
+- Calculus II
 - Linear Algebra
 
 ---
