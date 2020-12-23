@@ -19,8 +19,8 @@ January 2020 to Present
 November 2019 to Present
 
 - DASSL is a research group with broad focus on data science and data-intensive systems.
-- Collaborated on and presented [LearnDB](https://github.com/DASSL/LearnDB), at the DASSL Day conference.
-    - Created a GUI for any PostgreSQL database
+- Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
+    - Presented at the DASSL Day conference
     - Completed my first GitHub pull request.
     - Learned about GitHub DevOps lifecycle
 
