@@ -2,7 +2,7 @@
 ---
 ## Objective
 
-- To build a career in software development
+- To build a career in software development or a related field
 - To grow my knowledge and grasp of emerging technologies.
 
 ## Languages/Skills
