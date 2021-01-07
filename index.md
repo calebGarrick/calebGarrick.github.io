@@ -4,7 +4,6 @@
 
 - To build a career in software development
 - To grow my knowledge and grasp of emerging technologies.
----
 
 ## Languages/Skills
 
