@@ -2,8 +2,15 @@
 ---
 ## Objective
 
-- To build a career in software development or a related field in the scientific research industry
+- To build a career in software development
 - To grow my knowledge and grasp of emerging technologies.
+---
+
+## Languages/Skills
+
+C++, Java, Spring, Javscript, Node, Typescript, SQL, PostgrreSQL, MS Server SQL, Angular, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
+
+---
 
 ## Groups
 
@@ -20,9 +27,8 @@ November 2019 to Present
 
 - DASSL is a research group with broad focus on data science and data-intensive systems.
 - Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
-    - Presented at the DASSL Day conference
-    - Completed my first GitHub pull request.
-    - Learned about GitHub DevOps lifecycle
+  - Created a proxy server using Microsoft Internet Information Services
+  - Wrote development and deployment documentation
 
 ### [SIGCPP: Special Interest Group on C++](http://sigcpp.github.io)
 
@@ -31,10 +37,7 @@ January 2020 to Present
 - SIGCPP is the Special Interest Group on C++.
 - Meet to discuss modern C++, best practices, "what's going on in this code".
 - Solved SIGCPP blog article problems and discuss solutions.
-- Collaborated on stlite, a lite version of the C++ standard library
-  - Parsed Standards documentation  
-  - Created true-to-specification \<vector\>
-  - Discuss the unit testing suite design and implementation
+- Collaborated on stlite, a lite version of the C++ standard library.
 
 ---
 
@@ -54,11 +57,8 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - Computer Architecture
 - Computer Organization and Software
 - Distributed Application Engineering
-  - Collaborated on and presented [AlgoLearn](https://github.com/AlgoLearnWCSU/AlgoLearn)
-  - Built a full-stack application using Spring and Angular with Azure
+  - Collaborated to build and present [AlgoLearn](https://github.com/AlgoLearnWCSU/AlgoLearn)
 - Database Design
-  - Used a PostgreSQL instance running [ClassDB](https://github.com/DASSL/ClassDB) to build a relational databse
-  - Inducted into DASSL
 - Web Application Design
 - Algorithm Design and Analysis
 - Programming Languages
@@ -69,26 +69,6 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - Calculus I
 - Calculus II
 - Linear Algebra
-
----
-
-## Languages/Skills
-
-- C++
-- Microsoft Office Suite
-- Java
-- Spring
-- Javscript
-- Node
-- Typescript
-- SQL
-- Angular
-- Python
-- Git
-- Github
-- Microsoft Azure
-- Blender
-- Fusion 360
 
 ---
 
