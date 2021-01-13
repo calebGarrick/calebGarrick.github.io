@@ -7,7 +7,7 @@
 
 ## Languages/Skills
 
-C++, Java, Spring, Javscript, Node, Typescript, SQL, PostgrreSQL, MS Server SQL, Angular, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
+C++, Java, Spring, Javscript, Node, Typescript, Angular, SQL, PostgreSQL, MS Server SQL, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
 
 ---
 
@@ -92,24 +92,3 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 - Diligently monitored 60-minute games 'behind-the-scenes' at a computer workstation, providing clues and additional assistance when needed.
 - Lead post-game sessions with a positive and encouraging attitude.
 - Quickly and accurately reset game rooms with an eye for quality, reporting substandard items right away.
-
-### [**Lipscomb University**](https://www.lipscomb.edu/) - Nashville, TN - September 2017 to May 2018
-
-**Night Watchman**
-
-- Maintained a spreadsheet of when and which student depart from and/or return to the building after midnight.
-
-### [**Tidal River Christian Camp**](https://www.tidalriverchristiancamp.com/) - Haddam, CT - June 2016 to July 2017
-
-**Lifeguard/Camp Counselor**
-
-- Oversaw the daily activitties of children ages 7-18.
-- Monitored all camp use of the pool.
-- Responsible for maintaining pool cleanliness and chemistry.
-
-### [**Connecticut Science Center**](https://ctsciencecenter.org/) - Danbury, CT - July 2015 to August 2015
-
-**Teen Innovation Intern**
-
-- Led a team of four to build a drone
-- Presented it to the public as a display of modern technology.
