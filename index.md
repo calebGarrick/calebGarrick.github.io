@@ -73,7 +73,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 ## Work Experience
 
-### WCSU CS Department - Danbury, CT - January 2020 to November 2019
+### WCSU CS Department - Danbury, CT - August 2019 to August 2020
 
 **Computer Science Tutor**
 
