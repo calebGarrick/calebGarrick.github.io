@@ -24,7 +24,6 @@ January 2020 to Present
 
 November 2019 to Present
 
-- DASSL is a research group with broad focus on data science and data-intensive systems.
 - Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
   - Created a proxy server using Microsoft Internet Information Services
   - Wrote development and deployment documentation
@@ -33,10 +32,8 @@ November 2019 to Present
 
 January 2020 to Present
 
-- SIGCPP is the Special Interest Group on C++.
 - Meet to discuss modern C++, best practices, "what's going on in this code".
 - Solved SIGCPP blog article problems and discuss solutions.
-- Collaborated on stlite, a lite version of the C++ standard library.
 
 ---
 
@@ -51,23 +48,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 ### Relevant Coursework
 
-- Language C++
-- Object Oriented Programming and Design
-- Computer Architecture
-- Computer Organization and Software
-- Distributed Application Engineering
-  - Collaborated to build and present [AlgoLearn](https://github.com/AlgoLearnWCSU/AlgoLearn)
-- Database Design
-- Web Application Design
-- Algorithm Design and Analysis
-- Programming Languages
-- Operating Systems
-- Networking Principles
-- Discrete Mathematics for CS
-- Theory of Computation
-- Calculus I
-- Calculus II
-- Linear Algebra
+- Language C++, Object Oriented Programming and Design, Computer Architecture, Computer Organization and Software, Distributed Application Engineering: built and presented [AlgoLearn](https://github.com/AlgoLearnWCSU/AlgoLearn), Database Design, Web Application Design, Algorithm Design and Analysis, Programming Languages, Operating Systems, Networking Principles, Discrete Mathematics, Theory of Computation, Calculus I, Calculus II, Linear Algebra
 
 ---
 
