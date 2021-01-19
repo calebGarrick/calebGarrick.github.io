@@ -69,7 +69,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 **Senior Gamemaster**
 
 - Greet guests and process payments.
-- Lead game orientation with clarity and enthusiasm.
-- Diligently monitored 60-minute games 'behind-the-scenes' at a computer workstation, providing clues and additional assistance when needed.
-- Lead post-game sessions with a positive and encouraging attitude.
-- Quickly and accurately reset game rooms with an eye for quality, reporting substandard items right away.
+- Lead game orientations.
+- Monitored 60-minute games, providing clues and additional assistance as needed.
+- Lead post-game debriefings.
+- Reset game rooms quickly and accurately, reporting substandard items right away.
