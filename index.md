@@ -39,7 +39,7 @@ January 2020 to Present
 
 ## Education
 
-**Western Connecticut State University Danbury,CT - August 2018 - December 2020**
+**Western Connecticut State University Danbury,CT - Completed December 2020**
 
 _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
