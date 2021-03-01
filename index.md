@@ -7,7 +7,7 @@
 
 ## Languages/Skills
 
-C++, Java, Spring, Javscript, Node, Typescript, Angular, SQL, PostgreSQL, MS Server SQL, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
+C++, Java, Spring, Javascript, Node, Typescript, Angular, React, SQL, PostgreSQL, MS Server SQL, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
 
 ---
 
