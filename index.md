@@ -1,15 +1,46 @@
 ---
 ---
-## Objective
+## Work Experience
 
-- To build a career in software development or a related field
-- To grow my knowledge and grasp of emerging technologies.
+### Centerboard LLC - Danbury, CT 
+#### June 2021 to June 2022
+
+**Software Engineer**
+
+- Designed reusable Angular components for the Centerboard UI
+- Developed a RESTful service for communication with the Centerboard API
+- Maintained and refactored legacy code where necessary
+- Created Jira tickets and gathered requirements from Project Managers
+- Lead regular meetings as acting scrum master
+- Reviewed pull requests and discussed best practices as a team
+- Collaborated with devops to ensure product uptime
+
+### WCSU CS Department - Danbury, CT 
+#### January 2020 to August 2020
+
+**Computer Science Tutor**
+
+- Classes tutored
+  - Intro to Programming - Python
+  - Language C++
+  - Web Application Design
+  - Database Design
+
+### [Data Science and Systems Labs](https://dassl.github.io/) 
+#### October 2019 to January 2020
+
+**Data Science Intern**
+
+- Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
+  - Created a proxy server using Microsoft Internet Information Services
+  - Wrote development and deployment documentation
 
 ---
 
 ## Education
 
-**Western Connecticut State University Danbury,CT - Completed December 2020**
+### Western Connecticut State University Danbury,CT 
+#### Graduated December 2020
 
 _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
@@ -22,39 +53,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 ### Languages/Skills
 
-C++, Java, Spring, Javascript, Node, Typescript, Angular, React, SQL, PostgreSQL, MS Server SQL, Python, Git, Github, Microsoft Azure, Microsoft Office, Blender, Fusion 360
-
----
-
-## Work Experience
-
-### WCSU CS Department - Danbury, CT - January 2020 to August 2020
-
-**Computer Science Tutor**
-
-- Classes tutored
-  - Intro to Programming - Python
-  - Language C++
-  - Web Application Design
-  - Database Design
-
-### [Data Science and Systems Labs](https://dassl.github.io/) - October 2019 to January 2020
-
-**Data Science Intern**
-
-- Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
-  - Created a proxy server using Microsoft Internet Information Services
-  - Wrote development and deployment documentation
-
-### [**Escape 101**](https://www.esc101.com/) - Danbury, CT - May 2018 to November 2019
-
-**Senior Gamemaster**
-
-- Greet guests and process payments.
-- Lead game orientations.
-- Monitored 60-minute games, providing clues and additional assistance as needed.
-- Lead post-game debriefings.
-- Reset game rooms quickly and accurately, reporting substandard items right away.
+Typescript, Javascript, Angular, Node, C++, Java, Spring, SQL, Python, Git, Microsoft Azure, Microsoft Office, Blender
 
 ---
 
