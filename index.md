@@ -8,18 +8,21 @@
 **Software Engineer**
 
 - Designed reusable Angular components for the Centerboard UI
-- Developed a RESTful service for communication with the Centerboard API
+- Developed a RESTful service for consuming the microservices of the Centerboard API
+- Ensured code quality using Sonarqube
+- Unit tested all new code using Jasmine and Jest
 - Maintained and refactored legacy code where necessary
 - Created Jira tickets and gathered requirements from Project Managers
-- Lead regular meetings as acting scrum master
-- Reviewed pull requests and discussed best practices as a team
-- Collaborated with devops to ensure product uptime
+- Communicated with design team to improve user experience and clarify Figma mockups
+- Reviewed pull requests and discussed best practices with UI teams
+- Troubleshoot build and deploy failures
 
 ### WCSU CS Department - Danbury, CT 
 #### January 2020 to August 2020
 
 **Computer Science Tutor**
 
+- Communicate on a teams forum answering 
 - Classes tutored
   - Intro to Programming - Python
   - Language C++
@@ -31,7 +34,7 @@
 
 **Data Science Intern**
 
-- Collaborated on [LearnDB](https://github.com/DASSL/LearnDB), a GUI for any PostgreSQL database.
+- Released [LearnDB](https://github.com/DASSL/LearnDB), a GUI for PostgreSQL databases.
   - Created a proxy server using Microsoft Internet Information Services
   - Wrote development and deployment documentation
 
@@ -53,7 +56,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 ### Languages/Skills
 
-Typescript, Javascript, Angular, Node, C++, Java, Spring, SQL, Python, Git, Microsoft Azure, Microsoft Office, Blender
+Typescript, Javascript, Angular 12, Angular Material, HTML5, CSS/SCSS, Node, REST, TDD, Agile, SQL, Python, Git, Visual Studio Code, Microsoft Office Suite, Blender
 
 ---
 
