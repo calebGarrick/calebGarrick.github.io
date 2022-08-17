@@ -56,7 +56,7 @@ _Bachelor's of Science, Major in Computer Science, Minor in Mathematics_
 
 ### Languages/Skills
 
-Typescript, Javascript, Angular 12, Angular Material, HTML5, CSS/SCSS, Node, REST, TDD, Agile, SQL, Python, Git, Visual Studio Code, Microsoft Office Suite, Blender
+Typescript, Javascript, Angular 12, Angular Material, Tailwind CSS, HTML5, CSS/SCSS, Node, REST, TDD, Agile, SQL, Python, Git, Visual Studio Code, Microsoft Office Suite, Blender
 
 ---
 
